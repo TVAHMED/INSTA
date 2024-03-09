@@ -1,13 +1,4 @@
 
-	import uuid
-	import hmac
-	import random
-	import hashlib
-	import urllib
-	import requests
-	import stdiomask
-	import urllib.request
-except ImportError as e:
 	exit(f'\n [\033[1;35m>\033[0m] module {e} belum terinstall')
 
 from time import sleep
